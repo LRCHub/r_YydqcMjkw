@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "サラバ、愛しき悲しみたちよ",
+  "base_artist": "ももいろクローバーZ",
+  "createdAt": "2025-12-07T16:29:10.966766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/01_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ -ZZ ver.-",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/02_サラバ、愛しき悲しみたちよ_-ZZ_ver.-_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z, 布袋寅泰, 岩里祐穂",
+      "has_synced": true,
+      "path": "select/03_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z,_布袋寅泰,_岩里祐穂.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/04_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サラバ、愛しき悲しみたちよ (Live at 国立代々木競技場 第一体育館 2023.5.17)",
+      "artist": "Momoiro Clover Z",
+      "has_synced": false,
+      "path": "select/05_サラバ、愛しき悲しみたちよ_(Live_at_国立代々木競技場_第一体育館_2023.5.17)_Momoiro_Clover_Z.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サラバ､愛しき悲しみたちよ",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/06_サラバ、愛しき悲しみたちよ_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サラバ、愛しき悲しみたちよ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_01_サラバ、愛しき悲しみたちよ_ももいろクローバーZ.txt"
+    }
+  ]
+}
